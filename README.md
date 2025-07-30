@@ -30,6 +30,8 @@ I’ve also compiled an extensive set of AI-generated prompts that have helped m
 
 Currently, I’m diving into the emerging intersection of AI Agents and DevOps, while continuing to address the ongoing day-to-day challenges of ASE database administration.
 
+
+
 This repository is a work in progress. As I continue exploring the latest from ASE, IQ, RS, SQLA, and PowerDesigner, I ask for your patience while I refine and version-control the most useful AI-assisted scripts in the most efficient way possible.
 
 [![LICENCE](https://cdn.experts-exchange.com/images/experts-exchange/topicLogos/sybase-database.svg)](LICENCE)
