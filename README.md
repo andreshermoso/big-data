@@ -1,6 +1,6 @@
 ## Professional Experience – Big Data Engineering
 
-In 2015, I signed a contract with Nextech C.A. in Venezuela to support their SAS Institute analytics software solutions portfolio supporting Cloudera Hadoop HDFS Enterprise Data Hub architecture for United Telecommunications Services (UTS) Curaçao.
+__In 2015,__ I signed a contract with Nextech C.A. in Venezuela to support their SAS Institute analytics software solutions portfolio supporting Cloudera Hadoop HDFS Enterprise Data Hub architecture for United Telecommunications Services (UTS) Curaçao.
 
 This was a 36-week-long business intelligence (BI) engagement focused on integrating heterogeneous, multi-platform legacy data sources into unified dashboards covering
 
