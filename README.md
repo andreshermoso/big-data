@@ -32,5 +32,6 @@ The experience also introduced me to the ethical implications and ongoing debate
 
 My work with Hadoop-based data querying sparked a strong interest in developing data science skills, especially at a time when AI had not yet become a dominant part of the conversation.
 
+#slowtransactions
 <img width="919" height="612" alt="image" src="https://github.com/user-attachments/assets/9973b70c-fdef-4664-8569-dc89a681e490" />
 
