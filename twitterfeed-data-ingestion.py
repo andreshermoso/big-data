@@ -1,6 +1,6 @@
 
 ## Streaming Ingestion & Initial Processing - Apache Sparck Streaming
-##
+## X.com feeds data ingestion example
 ## Scala/PySpark
 
 from pyspark.sql import SparkSession
